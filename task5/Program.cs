@@ -10,6 +10,6 @@ if (number > 999 && number < 100)
     Console.WriteLine("wrong number");
 return;
 }    
-int number2 = number % 10;  // если днаписать % 100 то покажет два последних числа
+int number2 = number % 10;  // если днаписать % 100 то покажет два последних числа или 1000 тогда три числа
 Console.WriteLine(number2);
 
