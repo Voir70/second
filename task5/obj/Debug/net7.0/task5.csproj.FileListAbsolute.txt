@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\Second\task5\bin\Debug\net7.0\task5.exe
+D:\Users\antik\Documents\Second\task5\bin\Debug\net7.0\task5.deps.json
+D:\Users\antik\Documents\Second\task5\bin\Debug\net7.0\task5.runtimeconfig.json
+D:\Users\antik\Documents\Second\task5\bin\Debug\net7.0\task5.dll
+D:\Users\antik\Documents\Second\task5\bin\Debug\net7.0\task5.pdb
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.AssemblyInfo.cs
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.dll
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\refint\task5.dll
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.pdb
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\task5.genruntimeconfig.cache
+D:\Users\antik\Documents\Second\task5\obj\Debug\net7.0\ref\task5.dll
