@@ -36,4 +36,4 @@ Console.WriteLine($"Квадрат числа {number} = {result}");
 //А можно решить в два действия эту задачу
 //Console.WriteLine("введите число");
 //Console.WriteLine($"Квадрат = {Math.Pow(int.Parse(Console.ReadLine()),2)}");
-22
+45
