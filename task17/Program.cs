@@ -21,3 +21,12 @@ while (a > 0)
     count++;
 }
 Console.WriteLine($"количество цифр в числе = {count}");
+
+
+
+/*основная часть (до проверки на число)
+int numberFirst = GetNumber("Введите  число");
+string x1 = Convert.ToString(numberFirst);
+int lenNumber = x1.Length;
+Console.WriteLine($"Количество цифр в числе равно {lenNumber}");
+после проверки на число)*/
