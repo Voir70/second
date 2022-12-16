@@ -10,6 +10,21 @@
 2 2 6
 3 4 7
 */
+
+int[,] InitArray(int m, int n)
+{
+    int[,] array = new int[m, n];
+    Random rnd = new Random();
+    for (int i = 0; i < m; i++)
+    {
+       for (int j = 0; j < n; j++)
+       {
+        array[i, j] = rnd.Next(-10, 11);
+       } 
+    }
+    return array;
+}
+
 (int, int) Min(int[,] array)
             {
                 int min = array[0, 0];
@@ -53,3 +68,24 @@ int[,] Delete (int[,] array, int minRow, int minColumn)
                 }
                 return result;
             }
+    
+    
+       
+
+void PrintArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write($"{array[i, j]} ");
+        }
+        Console.WriteLine();
+    }
+    Console.WriteLine();
+}
+int[,] array = InitArray(3, 4);
+PrintArray(array);
+(int a, int b) = Min(array);
+PrintArray(Delete(array, a, b));
+Console.ReadLine();
